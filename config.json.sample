@@ -1,0 +1,4 @@
+{
+    "tsv": "testdata/timeseries.tsv.not.gz",
+    "json": "testdata/timeseries.json"
+}
